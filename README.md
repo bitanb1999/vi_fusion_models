@@ -26,4 +26,3 @@
 * Develop new model architectures
 
 
-# vi_fusion_models
